@@ -1,0 +1,15 @@
+.add-icon {
+  transition: 0.3s;
+}
+
+.add-icon:hover {
+  transform: scale(2);
+}
+
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
